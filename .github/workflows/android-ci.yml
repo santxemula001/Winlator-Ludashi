@@ -4,6 +4,8 @@ name: Android CI Bionic
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ outlast ]
 
 jobs:
   build:
