@@ -240,7 +240,7 @@ android {
 
     defaultConfig {
 
-        applicationId "com.outlast.game"
+        applicationId "com.winlator.cmod"
 
         minSdkVersion 26
 
